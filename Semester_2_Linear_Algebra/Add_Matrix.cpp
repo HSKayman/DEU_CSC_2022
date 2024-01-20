@@ -1,0 +1,34 @@
+#include<stdio.h>
+#include<time.h>
+#include<stdlib.h>
+int main(){
+	int a[N][N],i,j,b[N][N],c[N][N];
+	srand(time(0));
+	for(i=0;i<N;i++){
+		for(j=0;j<N;j++){
+			a[i][j]=rand()%100;
+			b[i][j]=rand()%100;
+	        c[i][j]=a[i][j]+b[i][j];  
+		}
+	}
+	for(i=0;i<N;i++){
+		for(j=0;j<N;j++){
+			printf("%5d",a[i][j]);
+		}
+		printf("\n");
+	}
+	printf("\n---------------------\n\n\n");
+	for(i=0;i<N;i++){
+		for(j=0;j<N;j++){
+			printf("%5d",b[i][j]);
+		}
+		printf("\n");
+	}
+	printf("\n---------------------\n\n\n");
+	for(i=0;i<N;i++){
+		for(j=0;j<N;j++){
+			printf("%5d",c[i][j]);
+		}
+		printf("\n");
+	}	
+}

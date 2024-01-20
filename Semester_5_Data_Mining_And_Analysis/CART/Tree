@@ -1,0 +1,45 @@
+graph {
+	"" [label="credit_history == \"'critical/other existing credit'\" 
+ P=0.15995733333333328 
+ records=750"]
+	L [label="property_magnitude == \"'real estate'\" 
+ P=0.13385255648038052 
+ records=580"]
+	"" -- L [label=Yes]
+	LL [label="credit_amount == \"<=6214.0\" 
+ P=0.12037155699849536 
+ records=459"]
+	L -- LL [label=Yes]
+	LLL [label="property_magnitude == \"'no known property'\" 
+ P=0.13447135717031913 
+ records=255"]
+	LL -- LLL [label=Yes]
+	LLLL [label="good->127
+bad->76
+good"]
+	LLL -- LLLL [label=Yes]
+	LLLR [label="good->25
+bad->27
+bad"]
+	LLL -- LLLR [label=No]
+	LLR [label="credit_history == \"'all paid'\" 
+ P=0.15196078431372548 
+ records=204"]
+	LL -- LLR [label=No]
+	LLRL [label="good->126
+bad->63
+good"]
+	LLR -- LLRL [label=Yes]
+	LLRR [label="good->3
+bad->12
+bad"]
+	LLR -- LLRR [label=No]
+	LR [label="good->98
+bad->23
+good"]
+	L -- LR [label=No]
+	R [label="good->145
+bad->25
+good"]
+	"" -- R [label=No]
+}

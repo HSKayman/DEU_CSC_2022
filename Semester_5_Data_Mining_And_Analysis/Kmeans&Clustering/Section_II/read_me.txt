@@ -1,0 +1,1 @@
+You can execute my code in Cmd with "python3 Kmeans.py" command or use IDE

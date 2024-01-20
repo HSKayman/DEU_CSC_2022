@@ -1,0 +1,85 @@
+graph {
+	"" [label="credit_history == \"'critical/other existing credit'\" 
+ P=0.15995733333333328 
+ records=750"]
+	L [label="property_magnitude == \"'real estate'\" 
+ P=0.13385255648038052 
+ records=580"]
+	"" -- L [label=Yes]
+	LL [label="credit_amount == \"<=6214.0\" 
+ P=0.12037155699849536 
+ records=459"]
+	L -- LL [label=Yes]
+	LLL [label="property_magnitude == \"'no known property'\" 
+ P=0.13447135717031913 
+ records=255"]
+	LL -- LLL [label=Yes]
+	LLLL [label="age == \">34.5\" 
+ P=0.1985973937732049 
+ records=203"]
+	LLL -- LLLL [label=Yes]
+	LLLLL [label="good->88
+bad->64
+good"]
+	LLLL -- LLLLL [label=Yes]
+	LLLLR [label="good->39
+bad->12
+good"]
+	LLLL -- LLLLR [label=No]
+	LLLR [label="employment == \"unemployed\" 
+ P=0.24260355029585795 
+ records=52"]
+	LLL -- LLLR [label=No]
+	LLLRL [label="good->18
+bad->26
+bad"]
+	LLLR -- LLLRL [label=Yes]
+	LLLRR [label="good->7
+bad->1
+good"]
+	LLLR -- LLLRR [label=No]
+	LLR [label="credit_history == \"'all paid'\" 
+ P=0.15196078431372548 
+ records=204"]
+	LL -- LLR [label=No]
+	LLRL [label="employment == \"<1\" 
+ P=0.11287477954144624 
+ records=189"]
+	LLR -- LLRL [label=Yes]
+	LLRLL [label="good->112
+bad->49
+good"]
+	LLRL -- LLRLL [label=Yes]
+	LLRLR [label="good->14
+bad->14
+good"]
+	LLRL -- LLRLR [label=No]
+	LLRR [label="good->3
+bad->12
+bad"]
+	LLR -- LLRR [label=No]
+	LR [label="credit_history == \"'existing paid'\" 
+ P=0.1374223072194522 
+ records=121"]
+	L -- LR [label=No]
+	LRL [label="employment == \"1<=X<4\" 
+ P=0.2857142857142857 
+ records=70"]
+	LR -- LRL [label=Yes]
+	LRLL [label="good->31
+bad->15
+good"]
+	LRL -- LRLL [label=Yes]
+	LRLR [label="good->23
+bad->1
+good"]
+	LRL -- LRLR [label=No]
+	LRR [label="good->44
+bad->7
+good"]
+	LR -- LRR [label=No]
+	R [label="good->145
+bad->25
+good"]
+	"" -- R [label=No]
+}
