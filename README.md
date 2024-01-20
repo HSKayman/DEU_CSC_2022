@@ -1,6 +1,6 @@
 # DEU_CSC_2022
 
-This is my undergraduate repository that contains a collection of implementations for various algorithms and methods across different fields of computer science and mathematics. The following is a brief overview of the contents:
+This is my undergraduate repository that contains a collection of implementations for various algorithms and methods across different fields of computer science and mathematics.
 
 ## Code composition is underway, and they will be  added to this repository. 
 
