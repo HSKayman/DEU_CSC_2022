@@ -1,5 +1,0 @@
-{
-   "Coins":["ETHUSDT","BTCUSDT","SOLUSDT","XRPUSDT","LUNAUSDT","BNBUSDT","AVAXUSDT","ADAUSDT","NEARUSDT","MATICUSDT","LTCUSDT","ATOMUSDT","LINKUSDT","ALGOUSDT","MANAUSDT","SANDUSDT"],
-   "Indicators":["rsi","macd","bb"],
-   "Timestamps":["1d","4h"]
-}
