@@ -1,0 +1,2 @@
+# Dropbox / cross-OS: keep text as LF in the repo and working tree
+* text=auto eol=lf
