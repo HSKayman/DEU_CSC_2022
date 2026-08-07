@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Example Genetical practice program.
+# Soft computing exercise.
 """
 Created on Tue Nov  9 17:21:58 2021
 

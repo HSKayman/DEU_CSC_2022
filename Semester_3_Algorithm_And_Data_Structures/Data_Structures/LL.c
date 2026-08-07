@@ -1,3 +1,7 @@
+/*
+ * LL practice program.
+ * Algorithms and data structures (Data Structures).
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>

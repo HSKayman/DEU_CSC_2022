@@ -1,3 +1,7 @@
+/*
+ * Shared data-structure library (tree/queue/stack).
+ * Algorithms and data structures (Data Structer Library).
+ */
 #ifndef AllLib
 #define AllLib
 typedef struct s{

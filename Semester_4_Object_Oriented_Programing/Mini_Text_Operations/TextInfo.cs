@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Text Info practice program.
+ * Object-oriented programming exercise (Mini Text Operations).
+ */
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.IO;

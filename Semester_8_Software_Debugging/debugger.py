@@ -1,3 +1,5 @@
+# Debugger practice program.
+# Software debugging exercise.
 import sys
 def remove_html_markup(s):
     tag = False

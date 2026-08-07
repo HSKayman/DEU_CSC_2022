@@ -1,3 +1,7 @@
+/*
+ * Random Number practice program.
+ * Discrete mathematics exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>

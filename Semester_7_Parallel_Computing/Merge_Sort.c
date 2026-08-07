@@ -1,3 +1,7 @@
+/*
+ * OpenMP parallel implementation.
+ * Parallel computing exercise.
+ */
 //2017280030 numaram geregi merge-sort algoritmasini kullandim ve bottom-up implementiyle odevimi yaptim
 //merge-sort algoritmasini kullanirken parallellestirmeyi stepSize ayni iken butun arrayi paylastirdim
 //boylelikle stepSize arrayin boyutuna gecincege kadar sanki recursive yapilmis gibi dynamic kodladim

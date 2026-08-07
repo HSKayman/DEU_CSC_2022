@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Matrix-chain / transportation MCM helper.
+# Operations research exercise.
 """
 Created on Fri Dec  4 00:35:52 2020
 

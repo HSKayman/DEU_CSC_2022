@@ -1,3 +1,7 @@
+/*
+ * MPI parallel implementation.
+ * Parallel computing exercise.
+ */
 #include<mpi.h>
 #include<stdio.h>
 #include<stdlib.h>

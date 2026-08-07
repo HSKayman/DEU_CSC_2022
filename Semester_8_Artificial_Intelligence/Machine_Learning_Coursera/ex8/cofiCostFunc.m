@@ -1,3 +1,7 @@
+% Cofi Cost Func practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Cofi Cost Func practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [J, grad] = cofiCostFunc(params, Y, R, num_users, num_movies, ...
                                   num_features, lambda)
 %COFICOSTFUNC Collaborative filtering cost function

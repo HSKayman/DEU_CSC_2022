@@ -1,3 +1,5 @@
+# Deltadebugger practice program.
+# Software debugging exercise.
 import re
 def remove_html_markup(s):
     tag = False

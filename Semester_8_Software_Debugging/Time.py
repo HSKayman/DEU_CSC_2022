@@ -1,3 +1,5 @@
+# Time practice program.
+# Software debugging exercise.
 class Time:
     def __init__(self,h=0,m=0,s=0):
         assert 0<=h<=23

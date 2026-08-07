@@ -1,6 +1,5 @@
-#FloydWarshall
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Floyd Warshall practice program.
+# Graph theory exercise.
 """
 Created on Tue Jan  7 02:00:29 2020
 

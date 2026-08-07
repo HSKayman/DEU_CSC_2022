@@ -1,3 +1,7 @@
+/*
+ * Interactive calculator.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 

@@ -1,3 +1,7 @@
+/*
+ * Student Mean practice program.
+ * CSC I intro programming exercise.
+ */
 #include <stdio.h>
 int main(){
 	int o[10],a,top,s=0;

@@ -1,3 +1,7 @@
+% Cost Function Reg practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Cost Function Reg practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [J, grad] = costFunctionReg(theta, X, y, lambda)
 %COSTFUNCTIONREG Compute cost and gradient for logistic regression with regularization
 %   J = COSTFUNCTIONREG(theta, X, y, lambda) computes the cost of using

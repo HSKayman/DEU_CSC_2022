@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Banking / EFT OOP demo.
+ * Object-oriented programming exercise (Banking EFT System).
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

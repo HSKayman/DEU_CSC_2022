@@ -1,3 +1,7 @@
+/*
+ * Sorting algorithm.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 void shell_sort (int *p,int size){
 	int i,j,k,l;

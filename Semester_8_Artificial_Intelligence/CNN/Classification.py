@@ -1,3 +1,5 @@
+# Convolutional neural network.
+# Artificial intelligence exercise (CNN).
 import numpy as np
 
 def sigmoid(Z):

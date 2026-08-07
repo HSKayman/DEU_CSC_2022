@@ -1,3 +1,7 @@
+/*
+ * Find To Max Number practice program.
+ * CSC I intro programming exercise.
+ */
 #include <stdio.h>
 int max(int *a,int lenght){
 	int maks=a[0];

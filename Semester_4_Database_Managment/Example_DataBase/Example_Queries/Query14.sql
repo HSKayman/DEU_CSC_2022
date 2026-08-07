@@ -1,3 +1,5 @@
+-- SQL query script.
+-- Database management exercise (Example Data Base).
 use ChessTournament
 /*Takimlarin Kaptan iceren pozisyona sahip oyuncularin isimleri soyisimleri ve takimlari*/
 select ChessTeams.[Name], ChessPlayers.[Name],ChessPlayers.Surname, ChessPlayers.Position from ChessPlayers

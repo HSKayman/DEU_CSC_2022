@@ -1,3 +1,7 @@
+/*
+ * Stack data structure.
+ * Algorithms and data structures.
+ */
 typedef struct s{
 	int size;
 	int top;

@@ -1,3 +1,7 @@
+% Visualize Boundary practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Visualize Boundary practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function visualizeBoundary(X, y, model, varargin)
 %VISUALIZEBOUNDARY plots a non-linear decision boundary learned by the SVM
 %   VISUALIZEBOUNDARYLINEAR(X, y, model) plots a non-linear decision 

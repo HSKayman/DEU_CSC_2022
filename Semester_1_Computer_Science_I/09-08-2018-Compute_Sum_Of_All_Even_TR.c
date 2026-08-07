@@ -1,3 +1,7 @@
+/*
+ * Compute Sum Of All Even practice program.
+ * CSC I intro programming exercise.
+ */
 int main(){
 	int a,b,c,d=0;
 	printf("Lutfen iki sayi giriniz :"); scanf("%d%d",&a,&b);

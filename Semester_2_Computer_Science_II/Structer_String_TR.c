@@ -1,3 +1,7 @@
+/*
+ * Structer String practice program.
+ * CSC II programming exercise.
+ */
 #include<string.h>
 #include<stdio.h>
 #include<stdlib.h>

@@ -1,3 +1,7 @@
+/*
+ * Floyd-Warshall all-pairs shortest paths.
+ * Graph theory exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>

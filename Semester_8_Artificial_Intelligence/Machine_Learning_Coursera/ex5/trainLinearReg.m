@@ -1,3 +1,7 @@
+% Train Linear Reg practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Train Linear Reg practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [theta] = trainLinearReg(X, y, lambda)
 %TRAINLINEARREG Trains linear regression given a dataset (X, y) and a
 %regularization parameter lambda

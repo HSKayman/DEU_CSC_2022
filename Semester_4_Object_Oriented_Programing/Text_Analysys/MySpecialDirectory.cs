@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * My Special Directory practice program.
+ * Object-oriented programming exercise (Text Analysys).
+ */
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;

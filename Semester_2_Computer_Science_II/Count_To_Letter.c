@@ -1,3 +1,7 @@
+/*
+ * Count To Letter practice program.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	char a[1000];

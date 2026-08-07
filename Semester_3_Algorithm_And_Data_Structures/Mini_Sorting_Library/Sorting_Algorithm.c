@@ -1,3 +1,7 @@
+/*
+ * Sorting algorithm.
+ * Algorithms and data structures (Mini Sorting Library).
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>

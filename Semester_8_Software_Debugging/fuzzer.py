@@ -1,3 +1,5 @@
+# Fuzzer practice program.
+# Software debugging exercise.
 import random
 
 def fuzzer():

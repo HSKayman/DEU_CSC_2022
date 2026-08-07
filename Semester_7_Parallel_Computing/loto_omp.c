@@ -1,4 +1,7 @@
-
+/*
+ * OpenMP parallel implementation.
+ * Parallel computing exercise.
+ */
 /*
 BENİ OKU
 

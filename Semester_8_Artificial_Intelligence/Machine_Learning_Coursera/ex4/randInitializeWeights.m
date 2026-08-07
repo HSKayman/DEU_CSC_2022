@@ -1,3 +1,7 @@
+% Rand Initialize Weights practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Rand Initialize Weights practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function W = randInitializeWeights(L_in, L_out)
 %RANDINITIALIZEWEIGHTS Randomly initialize the weights of a layer with L_in
 %incoming connections and L_out outgoing connections

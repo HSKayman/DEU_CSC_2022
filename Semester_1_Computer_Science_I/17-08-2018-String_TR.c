@@ -1,3 +1,7 @@
+/*
+ * String practice program.
+ * CSC I intro programming exercise.
+ */
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

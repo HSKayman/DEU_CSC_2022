@@ -1,3 +1,7 @@
+% Submit practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Submit practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function submit()
   addpath('./lib');
 

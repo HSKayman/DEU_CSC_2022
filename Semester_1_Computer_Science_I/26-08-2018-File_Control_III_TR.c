@@ -1,3 +1,7 @@
+/*
+ * File Control III practice program.
+ * CSC I intro programming exercise.
+ */
 #include <stdio.h>
 int main(){
 	char isim[20],okul[20],bolum[50];

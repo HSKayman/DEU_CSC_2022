@@ -1,6 +1,5 @@
-#Min-MaxAdj
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Min Max Adj practice program.
+# Graph theory exercise.
 """
 Created on Mon Jan  6 17:35:18 2020
 

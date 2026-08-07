@@ -1,6 +1,5 @@
-#BFS
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Breadth-first search.
+# Graph theory exercise.
 """
 Created on Tue Jan  7 23:51:05 2020
 

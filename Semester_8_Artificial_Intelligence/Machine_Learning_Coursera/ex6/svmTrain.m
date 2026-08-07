@@ -1,3 +1,7 @@
+% Svm Train practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Svm Train practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [model] = svmTrain(X, Y, C, kernelFunction, ...
                             tol, max_passes)
 %SVMTRAIN Trains an SVM classifier using a simplified version of the SMO 

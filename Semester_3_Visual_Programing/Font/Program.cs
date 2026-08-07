@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Font support code.
+ * Visual programming (WinForms) exercise.
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;

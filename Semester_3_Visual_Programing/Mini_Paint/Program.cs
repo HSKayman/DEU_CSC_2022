@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Mini paint application.
+ * Visual programming (WinForms) exercise.
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;

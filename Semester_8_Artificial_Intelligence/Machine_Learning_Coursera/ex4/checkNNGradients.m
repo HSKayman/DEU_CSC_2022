@@ -1,3 +1,7 @@
+% Check NNGradients practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Check NNGradients practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function checkNNGradients(lambda)
 %CHECKNNGRADIENTS Creates a small neural network to check the
 %backpropagation gradients

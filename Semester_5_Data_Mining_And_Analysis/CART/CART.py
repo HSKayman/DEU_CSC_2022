@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# CART decision tree.
+# Data mining / analysis exercise.
 """
 Created on Thu Nov 21 21:37:31 2021
 

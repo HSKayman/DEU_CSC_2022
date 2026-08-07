@@ -1,3 +1,7 @@
+/*
+ * Matrix operations practice.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 int main(){

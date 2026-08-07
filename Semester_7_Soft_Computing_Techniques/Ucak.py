@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Ucak practice program.
+# Soft computing exercise.
 """
 Created on Sun Nov 21 17:04:31 2021
 

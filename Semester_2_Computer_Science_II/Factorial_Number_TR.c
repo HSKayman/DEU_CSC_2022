@@ -1,3 +1,7 @@
+/*
+ * Computes factorial.
+ * CSC II programming exercise.
+ */
 #include<sdtio.h>
 int main(){
 	unsigned long long a,sum=1;

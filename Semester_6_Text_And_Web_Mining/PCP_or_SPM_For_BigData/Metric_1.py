@@ -1,6 +1,5 @@
-# =============================================================================
-# importing relevant libraries
-# =============================================================================
+# Metric 1 practice program.
+# Text and web mining exercise (PCP or SPM For Big Data).
 from pyod.models.knn import KNN
 import pandas as pd
 import numpy as np

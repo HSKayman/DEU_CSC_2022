@@ -1,6 +1,5 @@
-#CompleteGraph
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Complete Graph practice program.
+# Graph theory exercise.
 """
 Created on Wed Jan  8 00:03:35 2020
 

@@ -1,3 +1,7 @@
+% Get Vocab List practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Get Vocab List practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function vocabList = getVocabList()
 %GETVOCABLIST reads the fixed vocabulary list in vocab.txt and returns a
 %cell array of the words

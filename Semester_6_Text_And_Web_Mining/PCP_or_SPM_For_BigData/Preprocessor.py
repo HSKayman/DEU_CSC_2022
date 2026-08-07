@@ -1,7 +1,5 @@
-# =============================================================================
-# importing relevant libraries
-# =============================================================================
-
+# Preprocessor practice program.
+# Text and web mining exercise (PCP or SPM For Big Data).
 import numpy as np 
 import pandas as pd 
 from sklearn.impute import SimpleImputer 

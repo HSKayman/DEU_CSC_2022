@@ -1,3 +1,7 @@
+% Plot Decision Boundary practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Plot Decision Boundary practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function plotDecisionBoundary(theta, X, y)
 %PLOTDECISIONBOUNDARY Plots the data points X and y into a new figure with
 %the decision boundary defined by theta

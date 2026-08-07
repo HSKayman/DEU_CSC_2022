@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Text Analsysy practice program.
+ * Object-oriented programming exercise (Text Analysys).
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

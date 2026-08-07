@@ -1,3 +1,7 @@
+/*
+ * Compute To Salary practice program.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int a,i=0,min,result=1;

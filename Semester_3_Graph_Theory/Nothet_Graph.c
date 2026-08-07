@@ -1,3 +1,7 @@
+/*
+ * Nothet Graph practice program.
+ * Graph theory exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 int nothing(int**,int);

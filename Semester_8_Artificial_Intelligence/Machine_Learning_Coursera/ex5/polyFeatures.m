@@ -1,3 +1,7 @@
+% Poly Features practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Poly Features practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [X_poly] = polyFeatures(X, p)
 %POLYFEATURES Maps X (1D vector) into the p-th power
 %   [X_poly] = POLYFEATURES(X, p) takes a data matrix X (size m x 1) and

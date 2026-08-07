@@ -1,3 +1,7 @@
+/*
+ * Gaus Jordan practice program.
+ * Linear algebra exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 void Transirdel(float**p,int a,int b);

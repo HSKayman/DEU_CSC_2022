@@ -1,3 +1,7 @@
+/*
+ * Perfect Number practice program.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 int per(int x);
 main(){

@@ -1,3 +1,5 @@
+; 8086 assembly demo.
+; Computer organization exercise.
 ascii segment
 
 	assume cs:ascii

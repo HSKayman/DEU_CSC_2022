@@ -1,3 +1,7 @@
+/*
+ * Queu ll practice program.
+ * Algorithms and data structures (Data Structures).
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include"queu_ll.h"

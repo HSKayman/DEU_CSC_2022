@@ -1,3 +1,7 @@
+% Visualize Fit practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Visualize Fit practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function visualizeFit(X, mu, sigma2)
 %VISUALIZEFIT Visualize the dataset and its estimated distribution.
 %   VISUALIZEFIT(X, p, mu, sigma2) This visualization shows you the 

@@ -1,3 +1,7 @@
+/*
+ * Course homework solution.
+ * CSC I intro programming exercise.
+ */
 //25
 #include<stdio.h>
 int main(){

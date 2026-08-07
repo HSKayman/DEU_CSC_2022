@@ -1,4 +1,5 @@
-#assert 2+2 == 5
+# Assert 1 practice program.
+# Software debugging exercise.
 import math
 import random
 # def sqrt(x):

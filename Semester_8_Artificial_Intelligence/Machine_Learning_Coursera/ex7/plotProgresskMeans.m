@@ -1,3 +1,7 @@
+% Plot Progressk Means practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Plot Progressk Means practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function plotProgresskMeans(X, centroids, previous, idx, K, i)
 %PLOTPROGRESSKMEANS is a helper function that displays the progress of 
 %k-Means as it is running. It is intended for use only with 2D data.

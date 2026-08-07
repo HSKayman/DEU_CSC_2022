@@ -1,3 +1,5 @@
+-- SQL query script.
+-- Database management exercise (Example Data Base).
 use ChessTournament
 /*Takimlarin En Iyi Elolularin ELOsu ve Takimin Ismi*/
 select ChessTeams.[Name] ,max(ChessPlayers.ELO) as ELO from ChessTeams 

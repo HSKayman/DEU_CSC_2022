@@ -1,3 +1,7 @@
+/*
+ * Sorting algorithm.
+ * Algorithms and data structures (Mini Sorting Library).
+ */
 #ifndef Sorting_Algorithm
 #define Sorting_Algorithm
 

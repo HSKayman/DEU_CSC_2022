@@ -1,3 +1,7 @@
+/*
+ * MCDinamic practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #define min(x,y) (x<y ? x:y)

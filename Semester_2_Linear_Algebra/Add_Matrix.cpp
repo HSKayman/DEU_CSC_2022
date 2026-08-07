@@ -1,3 +1,7 @@
+/*
+ * Matrix operations practice.
+ * Linear algebra exercise.
+ */
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>

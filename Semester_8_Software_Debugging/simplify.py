@@ -1,4 +1,5 @@
-
+# Simplify practice program.
+# Software debugging exercise.
 import re
 
 def test(s):

@@ -1,3 +1,7 @@
+% Varargin2struct practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Varargin2struct practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function opt=varargin2struct(varargin)
 %
 % opt=varargin2struct('param1',value1,'param2',value2,...)

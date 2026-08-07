@@ -1,3 +1,7 @@
+/*
+ * Sorting algorithm.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 void Sirala(int *);
 int main(){

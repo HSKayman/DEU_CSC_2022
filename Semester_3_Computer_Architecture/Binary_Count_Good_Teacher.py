@@ -1,3 +1,5 @@
+# Binary Count Good Teacher practice program.
+# Computer architecture exercise.
 import itertools
 import pprint
 for digit in range(2,20):

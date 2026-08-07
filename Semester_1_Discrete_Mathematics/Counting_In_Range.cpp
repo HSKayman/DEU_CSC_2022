@@ -1,3 +1,7 @@
+/*
+ * Counting In Range practice program.
+ * Discrete mathematics exercise.
+ */
 #include<stdio.h>
 #define K 3
 #define L 5

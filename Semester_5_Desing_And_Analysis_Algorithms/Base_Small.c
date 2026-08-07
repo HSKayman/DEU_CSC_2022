@@ -1,3 +1,7 @@
+/*
+ * Base Small practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 void Base(int x,int base){//base<10
     if(x<base)

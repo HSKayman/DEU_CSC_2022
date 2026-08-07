@@ -1,3 +1,5 @@
+# Simplex linear programming.
+# Mathematical programming exercise.
 import numpy as np
 import sys
 

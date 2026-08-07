@@ -1,3 +1,5 @@
+# Binary Count Standart Teacher practice program.
+# Computer architecture exercise.
 import itertools
 eq=3
 for digit in range(1,20):

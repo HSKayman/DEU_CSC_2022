@@ -1,3 +1,7 @@
+/*
+ * Sieve of Eratosthenes practice program.
+ * Discrete mathematics exercise.
+ */
 #include<stdio.h>
 #include<math.h>
 #define Q 100000

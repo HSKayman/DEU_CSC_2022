@@ -1,3 +1,7 @@
+/*
+ * Array operations practice.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int a[]={2,3,9,8,15};

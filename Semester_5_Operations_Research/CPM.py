@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Critical path method (CPM).
+# Operations research exercise.
 """
 Created on Tue Jan 19 13:41:07 2021
 

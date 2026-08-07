@@ -1,3 +1,7 @@
+/*
+ * Function practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int f(int);
 int c(int,int);

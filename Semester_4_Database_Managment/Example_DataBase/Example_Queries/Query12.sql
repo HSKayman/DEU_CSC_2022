@@ -1,3 +1,5 @@
+-- SQL query script.
+-- Database management exercise (Example Data Base).
 use ChessTournament
 /*ELOsu 2000-3000 arasindaki sahip olan Takimlarin Isimleriyle Memleketleri */
 select DISTINCT ChessTeams.[Name], ChessTeams.[Country] from ChessTeams

@@ -1,3 +1,7 @@
+% Load Movie List practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Load Movie List practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function movieList = loadMovieList()
 %GETMOVIELIST reads the fixed movie list in movie.txt and returns a
 %cell array of the words

@@ -1,3 +1,5 @@
+; 8086 assembly demo.
+; Computer organization exercise.
 display equ 02h
 doscagir equ 21h
 

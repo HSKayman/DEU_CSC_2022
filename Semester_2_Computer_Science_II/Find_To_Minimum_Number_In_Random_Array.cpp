@@ -1,3 +1,7 @@
+/*
+ * Array operations practice.
+ * CSC II programming exercise.
+ */
 #include<stdlib.h>
 #include<time.h>
 #define sqrt(x) ((x)*(x))

@@ -1,9 +1,5 @@
-#
-# Implement checkRep on this ZIPCode class
-#
-# Valid zip codes are 5 digits long, where each digit
-# is between 0-9
-
+# Zip Code practice program.
+# Software debugging exercise.
 
 class ZIPCode:
     # US Only

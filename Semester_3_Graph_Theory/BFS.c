@@ -1,3 +1,7 @@
+/*
+ * Breadth-first search.
+ * Graph theory exercise.
+ */
 #include<stdio.h>
 #include<stdbool.h>
 #include<stdlib.h>

@@ -1,3 +1,7 @@
+/*
+ * Queue data structure.
+ * Algorithms and data structures.
+ */
 typedef struct{
     int *array;
     int size;

@@ -1,3 +1,7 @@
+/*
+ * Matrix operations practice.
+ * Linear algebra exercise.
+ */
 #include<stdio.h>
 #define N 3
 int ctrl(int a[N][N]);

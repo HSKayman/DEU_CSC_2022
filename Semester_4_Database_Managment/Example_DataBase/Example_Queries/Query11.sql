@@ -1,3 +1,5 @@
+-- SQL query script.
+-- Database management exercise (Example Data Base).
 use ChessTournament
 /* ilk turnuvada rakip takimlar, saat ve Hakemler*/
 select 

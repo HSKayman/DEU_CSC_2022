@@ -1,3 +1,7 @@
+/*
+ * Sorting algorithm.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int a[]={5,7,2,9,6,1,3,7};

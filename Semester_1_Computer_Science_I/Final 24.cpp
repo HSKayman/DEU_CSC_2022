@@ -1,3 +1,7 @@
+/*
+ * Final 24 practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
  int main(){
 	q2:int i,j,b,q;

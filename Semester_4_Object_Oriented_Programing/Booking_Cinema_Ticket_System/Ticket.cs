@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Cinema ticket booking system.
+ * Object-oriented programming exercise (Booking Cinema Ticket System).
+ */
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.IO;

@@ -1,3 +1,7 @@
+/*
+ * Compute Sum All Square practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int k(int);
 int main(){

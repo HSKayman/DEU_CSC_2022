@@ -1,3 +1,7 @@
+/*
+ * Compute To Mark practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	printf("Lutfen Notunuzu giriniz:"); int a; scanf("%d",&a);

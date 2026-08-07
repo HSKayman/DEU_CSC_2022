@@ -1,3 +1,7 @@
+/*
+ * Yousuf Problem practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>

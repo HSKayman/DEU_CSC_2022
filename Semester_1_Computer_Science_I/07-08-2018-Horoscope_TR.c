@@ -1,3 +1,7 @@
+/*
+ * Zodiac / horoscope date logic.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int a; 	char c;

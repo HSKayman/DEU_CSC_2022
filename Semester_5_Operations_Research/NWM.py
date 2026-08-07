@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Northwest-corner transportation method.
+# Operations research exercise.
 """
 Created on Thu Dec  3 23:04:20 2020
 

@@ -1,3 +1,7 @@
+/*
+ * Computes factorial.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int f(int);
 int main(){

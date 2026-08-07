@@ -1,3 +1,5 @@
+# CART decision tree.
+# Data mining / analysis exercise.
 import pandas as pd
 
 #Reading data

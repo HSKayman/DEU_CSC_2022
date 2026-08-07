@@ -1,3 +1,7 @@
+/*
+ * Computes right-triangle hypotenuse.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 #include<math.h>
 int main (){

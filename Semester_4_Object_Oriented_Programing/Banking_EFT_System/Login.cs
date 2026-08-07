@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * WinForms GUI form.
+ * Object-oriented programming exercise (Banking EFT System).
+ */
+using System;
 using System.IO;
 using System.Windows.Forms;
 

@@ -1,3 +1,7 @@
+/*
+ * Sorting algorithm.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 		printf("Dizinin Eleman Sayisi :"); int f; scanf("%d",&f);

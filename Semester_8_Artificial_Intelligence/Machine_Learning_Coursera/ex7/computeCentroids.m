@@ -1,3 +1,7 @@
+% Compute Centroids practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Compute Centroids practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function centroids = computeCentroids(X, idx, K)
 %COMPUTECENTROIDS returs the new centroids by computing the means of the 
 %data points assigned to each centroid.

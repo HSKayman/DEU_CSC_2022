@@ -1,6 +1,5 @@
-#MIS
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# MIS practice program.
+# Graph theory exercise.
 """
 Created on Mon Jan  6 20:01:11 2020
 

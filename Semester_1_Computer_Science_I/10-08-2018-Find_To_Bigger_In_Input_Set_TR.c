@@ -1,3 +1,7 @@
+/*
+ * Find To Bigger In Input Set practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int a=0,b=0,c=0;

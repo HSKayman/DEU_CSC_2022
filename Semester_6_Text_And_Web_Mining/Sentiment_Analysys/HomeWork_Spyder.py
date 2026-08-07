@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Sentiment analysis.
+# Text and web mining exercise (Sentiment Analysys).
 """
 Created on Fri Apr 30 12:48:58 2021
 

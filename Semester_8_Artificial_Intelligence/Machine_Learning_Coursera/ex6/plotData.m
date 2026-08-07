@@ -1,3 +1,7 @@
+% Plot Data practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Plot Data practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function plotData(X, y)
 %PLOTDATA Plots the data points X and y into a new figure 
 %   PLOTDATA(x,y) plots the data points with + for the positive examples

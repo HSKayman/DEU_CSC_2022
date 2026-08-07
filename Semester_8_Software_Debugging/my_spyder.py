@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# Simple debugger
-# See instructions around line 34
+# My spyder practice program.
+# Software debugging exercise.
 import sys
 
 

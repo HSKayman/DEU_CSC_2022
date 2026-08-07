@@ -1,3 +1,7 @@
+% Runk Means practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Runk Means practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [centroids, idx] = runkMeans(X, initial_centroids, ...
                                       max_iters, plot_progress)
 %RUNKMEANS runs the K-Means algorithm on data matrix X, where each row of X

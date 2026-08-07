@@ -1,3 +1,7 @@
+/*
+ * Function III practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int f(int x){
 printf("%d",x);

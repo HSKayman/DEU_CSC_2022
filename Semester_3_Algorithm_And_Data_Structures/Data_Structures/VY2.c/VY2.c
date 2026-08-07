@@ -1,3 +1,7 @@
+/*
+ * VY2 practice program.
+ * Algorithms and data structures (Data Structures).
+ */
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct n{

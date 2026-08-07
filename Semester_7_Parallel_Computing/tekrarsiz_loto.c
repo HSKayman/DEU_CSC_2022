@@ -1,3 +1,7 @@
+/*
+ * Tekrarsiz loto practice program.
+ * Parallel computing exercise.
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>

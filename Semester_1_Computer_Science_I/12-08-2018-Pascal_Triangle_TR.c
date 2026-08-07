@@ -1,3 +1,7 @@
+/*
+ * Pascal triangle generator.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int com(int,int);
 int fac(int);

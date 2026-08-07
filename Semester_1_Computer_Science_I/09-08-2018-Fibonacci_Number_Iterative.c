@@ -1,3 +1,7 @@
+/*
+ * Computes Fibonacci numbers.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int a;

@@ -1,3 +1,7 @@
+% Linear Reg Cost Function practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Linear Reg Cost Function practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [J, grad] = linearRegCostFunction(X, y, theta, lambda)
 %LINEARREGCOSTFUNCTION Compute cost and gradient for regularized linear 
 %regression with multiple variables

@@ -1,4 +1,8 @@
-﻿namespace _2017280030_OOP_Final
+/*
+ * Auto-generated WinForms designer code for Account Screen.
+ * Part of Object-oriented programming exercise.
+ */
+namespace _2017280030_OOP_Final
 {
     partial class AccountScreen
     {

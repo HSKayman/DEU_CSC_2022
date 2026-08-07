@@ -1,3 +1,7 @@
+% Validation Curve practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Validation Curve practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [lambda_vec, error_train, error_val] = ...
     validationCurve(X, y, Xval, yval)
 %VALIDATIONCURVE Generate the train and validation errors needed to

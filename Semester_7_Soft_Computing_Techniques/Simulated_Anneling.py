@@ -1,3 +1,5 @@
+# Simulated Anneling practice program.
+# Soft computing exercise.
 from numpy import asarray
 from numpy.random import randn
 from numpy.random import rand

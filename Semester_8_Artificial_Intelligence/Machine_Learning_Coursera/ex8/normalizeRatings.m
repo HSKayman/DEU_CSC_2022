@@ -1,3 +1,7 @@
+% Normalize Ratings practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Normalize Ratings practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [Ynorm, Ymean] = normalizeRatings(Y, R)
 %NORMALIZERATINGS Preprocess data by subtracting mean rating for every 
 %movie (every row)

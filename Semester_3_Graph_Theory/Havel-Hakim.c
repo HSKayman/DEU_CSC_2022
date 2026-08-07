@@ -1,3 +1,7 @@
+/*
+ * Havel Hakim practice program.
+ * Graph theory exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 void sorting(int *,int);

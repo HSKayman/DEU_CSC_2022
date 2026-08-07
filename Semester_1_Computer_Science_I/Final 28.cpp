@@ -1,3 +1,7 @@
+/*
+ * Final 28 practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>

@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# K-means clustering.
+# Data mining / analysis exercise (Kmeans&Clustering).
 """
 Created on Fri Dec 31 15:59:10 2021
 Spyder (Python 3.8)

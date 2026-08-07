@@ -1,3 +1,7 @@
+/*
+ * Gcd practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 unsigned gcd(unsigned a,unsigned b){
     if(!(a%b))

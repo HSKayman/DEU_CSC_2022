@@ -1,6 +1,5 @@
-#RegulerGraph
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Reguler Graph practice program.
+# Graph theory exercise.
 """
 Created on Mon Jan  6 19:08:01 2020
 

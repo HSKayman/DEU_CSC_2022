@@ -1,3 +1,7 @@
+/*
+ * Hanoi practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 void Honai(int x,char A,char B,char C){
     static unsigned a=1;

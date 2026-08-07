@@ -1,3 +1,7 @@
+% Porter Stemmer practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Porter Stemmer practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function stem = porterStemmer(inString)
 % Applies the Porter Stemming algorithm as presented in the following
 % paper:

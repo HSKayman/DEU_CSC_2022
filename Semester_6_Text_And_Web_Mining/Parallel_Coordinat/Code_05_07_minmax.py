@@ -1,7 +1,5 @@
-# =============================================================================
-# importing relevant libraries
-# =============================================================================
-
+# Code 05 07 minmax practice program.
+# Text and web mining exercise (Parallel Coordinat).
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np

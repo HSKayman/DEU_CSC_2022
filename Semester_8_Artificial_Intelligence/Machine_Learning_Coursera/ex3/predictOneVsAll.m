@@ -1,3 +1,7 @@
+% Predict One Vs All practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Predict One Vs All practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function p = predictOneVsAll(all_theta, X)
 %PREDICT Predict the label for a trained one-vs-all classifier. The labels 
 %are in the range 1..K, where K = size(all_theta, 1). 

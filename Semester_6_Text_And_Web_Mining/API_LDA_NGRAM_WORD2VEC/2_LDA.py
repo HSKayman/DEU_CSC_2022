@@ -1,3 +1,5 @@
+# LDA topic modeling or linear discriminant analysis.
+# Text and web mining exercise (API LDA NGRAM WORD2VEC).
 import pandas as pd
 import numpy as np
 import gensim

@@ -1,3 +1,7 @@
+/*
+ * Groups Mean practice program.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int a[16]={0},i,sum=0,result;

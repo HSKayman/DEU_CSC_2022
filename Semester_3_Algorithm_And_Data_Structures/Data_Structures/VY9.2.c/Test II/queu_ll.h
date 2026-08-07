@@ -1,3 +1,7 @@
+/*
+ * Shared data-structure library (tree/queue/stack).
+ * Algorithms and data structures (Data Structures).
+ */
 #ifndef queu_ll
 #define queu_ll
 typedef struct n{

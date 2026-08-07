@@ -1,3 +1,5 @@
+; 8086 assembly demo.
+; Computer organization exercise.
 tufek segment
 
 ana_program	proc far

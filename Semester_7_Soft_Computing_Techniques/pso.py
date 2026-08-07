@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Pso practice program.
+# Soft computing exercise.
 """
 Created on Sun Jan 16 19:47:57 2022
 

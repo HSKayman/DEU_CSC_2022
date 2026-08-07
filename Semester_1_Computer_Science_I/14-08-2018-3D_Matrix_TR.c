@@ -1,3 +1,7 @@
+/*
+ * Matrix operations practice.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int school[2][2][5];

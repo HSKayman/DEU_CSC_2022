@@ -1,3 +1,7 @@
+/*
+ * Lagranca Interpolasyon practice program.
+ * Numerical analysis exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

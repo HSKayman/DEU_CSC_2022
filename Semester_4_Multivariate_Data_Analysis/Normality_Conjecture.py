@@ -1,3 +1,5 @@
+# Normality Conjecture practice program.
+# Multivariate data analysis exercise.
 import seaborn as sns
 import scipy.stats as st
 import pylab

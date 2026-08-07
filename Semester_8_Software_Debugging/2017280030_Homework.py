@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-
+# Course homework solution.
+# Software debugging exercise.
 import sys
 import copy
 from collections import defaultdict

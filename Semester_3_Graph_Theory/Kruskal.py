@@ -1,6 +1,5 @@
-#Kruskal
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Kruskal MST.
+# Graph theory exercise.
 """
 Created on Wed Jan  8 01:01:35 2020
 

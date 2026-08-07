@@ -1,6 +1,5 @@
-#Prims
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Prim MST.
+# Graph theory exercise.
 """
 Created on Thu Jan  9 01:31:06 2020
 

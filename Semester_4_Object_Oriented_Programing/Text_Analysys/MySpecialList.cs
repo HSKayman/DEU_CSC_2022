@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * My Special List practice program.
+ * Object-oriented programming exercise (Text Analysys).
+ */
+using System;
 using System.Collections.Generic;
 using System.Text;
 

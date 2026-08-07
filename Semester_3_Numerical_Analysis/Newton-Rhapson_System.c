@@ -1,3 +1,7 @@
+/*
+ * Newton numerical method.
+ * Numerical analysis exercise.
+ */
 #include<stdio.h>
 #include<math.h>
 double f1(double x,double y){

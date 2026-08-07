@@ -1,3 +1,7 @@
+/*
+ * Array operations practice.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #define L 10

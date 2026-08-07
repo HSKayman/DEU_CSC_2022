@@ -1,3 +1,7 @@
+/*
+ * Final String To Int practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	char a[102]; scanf("%[^\n]s",a);

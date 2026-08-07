@@ -1,3 +1,7 @@
+/*
+ * Compute Sum Of All Odd practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int s1,s2,i,c=0,d=0,a,b;

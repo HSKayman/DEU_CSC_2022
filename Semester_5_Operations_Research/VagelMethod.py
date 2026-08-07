@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Vogel approximation method.
+# Operations research exercise.
 """
 Created on Fri Dec  4 00:38:22 2020
 

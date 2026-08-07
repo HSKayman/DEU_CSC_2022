@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Metric 3 practice program.
+# Text and web mining exercise (PCP or SPM For Big Data).
 """
 Created on Sat Feb  1 01:39:11 2020
 

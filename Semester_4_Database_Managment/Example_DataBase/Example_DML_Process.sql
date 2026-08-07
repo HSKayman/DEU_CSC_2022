@@ -1,3 +1,5 @@
+-- SQL schema / table definitions.
+-- Database management exercise (Example Data Base).
 use [ChessTournament]
 go
 /* Yeni Tablolar*/

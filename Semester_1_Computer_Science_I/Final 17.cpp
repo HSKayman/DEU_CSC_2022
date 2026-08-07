@@ -1,3 +1,7 @@
+/*
+ * Final 17 practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	printf("Lutfen Cumle Giriniz:"); char a[300]; scanf("%[^\n]s",a);

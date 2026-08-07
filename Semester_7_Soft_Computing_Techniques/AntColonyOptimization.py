@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Ant Colony Optimization practice program.
+# Soft computing exercise.
 """
 Created on Sat Jan 15 20:21:11 2022
 

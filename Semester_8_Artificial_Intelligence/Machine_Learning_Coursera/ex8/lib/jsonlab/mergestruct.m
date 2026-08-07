@@ -1,3 +1,7 @@
+% Mergestruct practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Mergestruct practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function s=mergestruct(s1,s2)
 %
 % s=mergestruct(s1,s2)

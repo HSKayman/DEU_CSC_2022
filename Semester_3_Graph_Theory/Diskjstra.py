@@ -1,6 +1,5 @@
-#Diskjstra
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Diskjstra practice program.
+# Graph theory exercise.
 """
 Created on Tue Jan  7 01:09:43 2020
 

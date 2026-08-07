@@ -1,3 +1,7 @@
+/*
+ * Hornor Method practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 int horner(int A[], int n, int x) 
 { 

@@ -1,3 +1,7 @@
+/*
+ * Basic Math Game practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 printf("Merhabalar \t \t (ilerlemek icin entera basiniz.)");

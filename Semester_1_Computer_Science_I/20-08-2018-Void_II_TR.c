@@ -1,3 +1,7 @@
+/*
+ * Void II practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 void mark(int vize,int final){ 
 

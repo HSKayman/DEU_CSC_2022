@@ -1,3 +1,7 @@
+/*
+ * Course homework solution.
+ * Algorithms and data structures.
+ */
 //Dahil Edilen Kutuphaneler
 #include<stdio.h>
 #include<stdlib.h>

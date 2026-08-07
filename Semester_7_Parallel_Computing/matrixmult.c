@@ -1,3 +1,7 @@
+/*
+ * OpenMP parallel implementation.
+ * Parallel computing exercise.
+ */
 #include<stdio.h>
 #include<omp.h>
 #define N 4

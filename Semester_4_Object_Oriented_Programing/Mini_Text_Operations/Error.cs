@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Error practice program.
+ * Object-oriented programming exercise (Mini Text Operations).
+ */
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;

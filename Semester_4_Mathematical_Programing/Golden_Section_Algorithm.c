@@ -1,3 +1,7 @@
+/*
+ * Golden Section Algorithm practice program.
+ * Mathematical programming exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>

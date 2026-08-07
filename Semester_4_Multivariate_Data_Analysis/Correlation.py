@@ -1,3 +1,5 @@
+# Correlation practice program.
+# Multivariate data analysis exercise.
 import seaborn as sns
 import statistics as st
 diamonds = sns.load_dataset('diamonds')

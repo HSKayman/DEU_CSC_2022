@@ -1,3 +1,7 @@
+/*
+ * Queue data structure.
+ * Algorithms and data structures (Data Structures).
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include"queue_arr.h"

@@ -1,3 +1,7 @@
+% Learning Curve practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Learning Curve practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [error_train, error_val] = ...
     learningCurve(X, y, Xval, yval, lambda)
 %LEARNINGCURVE Generates the train and cross validation set errors needed 

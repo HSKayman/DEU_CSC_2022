@@ -1,7 +1,5 @@
-# =============================================================================
-# importing relevant libraries
-# =============================================================================
-
+# Matrix operations practice.
+# Multivariate data analysis exercise (Scatter Matrix).
 import plotly.offline as py
 import plotly.figure_factory as ff
 from scipy.stats import pearsonr

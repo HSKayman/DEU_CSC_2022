@@ -1,3 +1,7 @@
+/*
+ * Base Big practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 void Base(int x, int base){//reverse
     

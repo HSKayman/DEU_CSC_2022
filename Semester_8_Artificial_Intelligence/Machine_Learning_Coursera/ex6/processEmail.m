@@ -1,3 +1,7 @@
+% Process Email practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Process Email practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function word_indices = processEmail(email_contents)
 %PROCESSEMAIL preprocesses a the body of an email and
 %returns a list of word_indices 

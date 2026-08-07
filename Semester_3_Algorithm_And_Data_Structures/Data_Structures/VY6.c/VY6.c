@@ -1,3 +1,7 @@
+/*
+ * VY6 practice program.
+ * Algorithms and data structures (Data Structures).
+ */
 #include<stdio.h>
 #include<stdlib.h>
 

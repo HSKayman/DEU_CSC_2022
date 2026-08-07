@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * WinForms GUI form.
+ * Visual programming (WinForms) exercise (Braille Alphabet).
+ */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

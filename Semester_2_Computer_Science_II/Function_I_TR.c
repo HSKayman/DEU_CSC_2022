@@ -1,3 +1,7 @@
+/*
+ * Function I practice program.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 double mat1(int x,int y,int z);
 double mat2(int x,int y,int z);

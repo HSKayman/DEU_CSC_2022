@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# LDA topic modeling or linear discriminant analysis.
+# Text and web mining exercise.
 """
 Created on Tue Apr 20 02:46:09 2021
 

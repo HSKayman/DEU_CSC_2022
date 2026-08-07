@@ -1,3 +1,7 @@
+/*
+ * Final 19 practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 #include<string.h>
 int main()

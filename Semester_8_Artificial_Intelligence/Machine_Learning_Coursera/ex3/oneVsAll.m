@@ -1,3 +1,7 @@
+% One Vs All practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% One Vs All practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [all_theta] = oneVsAll(X, y, num_labels, lambda)
 %ONEVSALL trains multiple logistic regression classifiers and returns all
 %the classifiers in a matrix all_theta, where the i-th row of all_theta 

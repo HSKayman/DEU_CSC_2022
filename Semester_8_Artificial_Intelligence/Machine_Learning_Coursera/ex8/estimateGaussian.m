@@ -1,3 +1,7 @@
+% Estimate Gaussian practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Estimate Gaussian practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [mu sigma2] = estimateGaussian(X)
 %ESTIMATEGAUSSIAN This function estimates the parameters of a 
 %Gaussian distribution using the data in X

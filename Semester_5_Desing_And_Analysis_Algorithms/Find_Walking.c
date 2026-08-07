@@ -1,3 +1,7 @@
+/*
+ * Find Walking practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 #include<string.h>
 int main(){

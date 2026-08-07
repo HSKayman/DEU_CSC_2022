@@ -1,3 +1,7 @@
+% Normal Eqn practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Normal Eqn practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [theta] = normalEqn(X, y)
 %NORMALEQN Computes the closed-form solution to linear regression 
 %   NORMALEQN(X,y) computes the closed-form solution to linear 

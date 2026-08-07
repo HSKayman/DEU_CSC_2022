@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Chou-Fasman protein secondary-structure prediction.
+# Bioinformatics exercise.
 """
 Created on Sun Jan 23 23:09:09 2022
 

@@ -1,6 +1,5 @@
-#Havel-Hakimi
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Havel Hakimi practice program.
+# Graph theory exercise.
 """
 Created on Mon Jan  6 17:45:24 2020
 

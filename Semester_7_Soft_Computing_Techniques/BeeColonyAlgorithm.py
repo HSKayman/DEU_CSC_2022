@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Bee Colony Algorithm practice program.
+# Soft computing exercise.
 """
 Created on Sun Jan 16 18:47:30 2022
 

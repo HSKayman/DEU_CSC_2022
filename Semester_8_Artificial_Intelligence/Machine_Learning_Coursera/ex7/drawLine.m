@@ -1,3 +1,7 @@
+% Draw Line practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Draw Line practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function drawLine(p1, p2, varargin)
 %DRAWLINE Draws a line from point p1 to point p2
 %   DRAWLINE(p1, p2) Draws a line from point p1 to point p2 and holds the

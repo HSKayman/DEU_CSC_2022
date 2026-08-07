@@ -1,3 +1,5 @@
+-- SQL query script.
+-- Database management exercise (Example Data Base).
 use ChessTournament
 /*Notasyonlari olmayan Maclarin ID si*/
 select ChessGames.ChessGameID from Notations

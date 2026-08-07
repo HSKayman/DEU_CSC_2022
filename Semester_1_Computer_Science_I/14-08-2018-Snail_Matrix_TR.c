@@ -1,3 +1,7 @@
+/*
+ * Matrix operations practice.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int i,j,b,q,s=1,a[15][15];

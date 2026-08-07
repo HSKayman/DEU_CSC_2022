@@ -1,3 +1,5 @@
+-- SQL query script.
+-- Database management exercise (Example Data Base).
 use ChessTournament
 /* Oyuncular Ve Kazandigi Mac Adeti*/
 select [Name],sum(Point) as Point from (

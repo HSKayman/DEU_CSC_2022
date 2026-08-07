@@ -1,3 +1,7 @@
+% Gradient Descent Multi practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Gradient Descent Multi practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [theta, J_history] = gradientDescentMulti(X, y, theta, alpha, num_iters)
 %GRADIENTDESCENTMULTI Performs gradient descent to learn theta
 %   theta = GRADIENTDESCENTMULTI(x, y, theta, alpha, num_iters) updates theta by

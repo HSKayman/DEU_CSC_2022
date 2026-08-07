@@ -1,3 +1,7 @@
+% Check Cost Function practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Check Cost Function practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function checkCostFunction(lambda)
 %CHECKCOSTFUNCTION Creates a collaborative filering problem 
 %to check your cost function and gradients

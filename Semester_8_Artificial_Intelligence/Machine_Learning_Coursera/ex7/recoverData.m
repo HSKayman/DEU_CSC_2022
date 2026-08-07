@@ -1,3 +1,7 @@
+% Recover Data practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Recover Data practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function X_rec = recoverData(Z, U, K)
 %RECOVERDATA Recovers an approximation of the original data when using the 
 %projected data

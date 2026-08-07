@@ -1,3 +1,7 @@
+/*
+ * Login practice program.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 #include<string.h>
 int main(){

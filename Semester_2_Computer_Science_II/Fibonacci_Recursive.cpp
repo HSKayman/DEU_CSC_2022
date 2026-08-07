@@ -1,3 +1,7 @@
+/*
+ * Computes Fibonacci numbers.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 int fibb(int x);
 int main(){

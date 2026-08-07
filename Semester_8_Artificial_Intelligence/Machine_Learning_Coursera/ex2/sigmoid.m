@@ -1,3 +1,7 @@
+% Sigmoid practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Sigmoid practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function g = sigmoid(z)
 %SIGMOID Compute sigmoid function
 %   g = SIGMOID(z) computes the sigmoid of z.

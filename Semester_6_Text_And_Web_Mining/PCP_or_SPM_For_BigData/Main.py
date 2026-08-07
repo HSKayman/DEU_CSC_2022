@@ -1,7 +1,5 @@
-# =============================================================================
-# import relevant libraries
-# =============================================================================
-
+# PCP or SPM For Big Data support code.
+# Text and web mining exercise.
 from operator import itemgetter
 import os
 # Read the data

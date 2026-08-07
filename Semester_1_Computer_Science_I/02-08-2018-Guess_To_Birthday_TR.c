@@ -1,3 +1,7 @@
+/*
+ * Birthday guessing puzzle.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main (){
 	int k;

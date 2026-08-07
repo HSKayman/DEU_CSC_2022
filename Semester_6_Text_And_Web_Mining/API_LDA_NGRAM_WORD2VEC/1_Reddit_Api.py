@@ -1,3 +1,5 @@
+# LDA topic modeling or linear discriminant analysis.
+# Text and web mining exercise (API LDA NGRAM WORD2VEC).
 import praw
 import pandas as pd
 import datetime as dt

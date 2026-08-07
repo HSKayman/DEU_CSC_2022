@@ -1,3 +1,7 @@
+% Select Threshold practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Select Threshold practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [bestEpsilon bestF1] = selectThreshold(yval, pval)
 %SELECTTHRESHOLD Find the best threshold (epsilon) to use for selecting
 %outliers

@@ -1,3 +1,7 @@
+/*
+ * Sorting algorithm.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>

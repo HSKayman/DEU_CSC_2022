@@ -1,3 +1,5 @@
+# Water Man practice program.
+# Bioinformatics exercise.
 import numpy as np
 from termcolor import colored
 

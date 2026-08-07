@@ -1,3 +1,7 @@
+/*
+ * Number With Rule practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 int main(){
     int i,j,k,count=0;

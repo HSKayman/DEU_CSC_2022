@@ -1,3 +1,7 @@
+/*
+ * Stack data structure.
+ * Algorithms and data structures (Data Structures).
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include"stack_ll.h"

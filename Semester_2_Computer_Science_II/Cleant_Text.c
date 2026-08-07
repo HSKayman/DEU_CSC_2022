@@ -1,3 +1,7 @@
+/*
+ * Cleant Text practice program.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 int HarfMi(int x);

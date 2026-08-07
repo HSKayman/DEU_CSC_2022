@@ -1,3 +1,7 @@
+/*
+ * C pointer practice.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

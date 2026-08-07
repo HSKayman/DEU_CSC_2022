@@ -1,3 +1,7 @@
+% Principal component analysis.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Principal component analysis.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [U, S] = pca(X)
 %PCA Run principal component analysis on the dataset X
 %   [U, S, X] = pca(X) computes eigenvectors of the covariance matrix of X

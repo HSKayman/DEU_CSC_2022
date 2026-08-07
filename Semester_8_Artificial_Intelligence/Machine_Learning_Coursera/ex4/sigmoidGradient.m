@@ -1,3 +1,7 @@
+% Sigmoid Gradient practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Sigmoid Gradient practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function g = sigmoidGradient(z)
 %SIGMOIDGRADIENT returns the gradient of the sigmoid function
 %evaluated at z

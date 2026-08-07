@@ -1,3 +1,7 @@
+/*
+ * Final 3 practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int saltanat(int x);
 int main()

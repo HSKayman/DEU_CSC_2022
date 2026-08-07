@@ -1,3 +1,7 @@
+% Predict practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Predict practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function p = predict(theta, X)
 %PREDICT Predict whether the label is 0 or 1 using learned logistic 
 %regression parameters theta

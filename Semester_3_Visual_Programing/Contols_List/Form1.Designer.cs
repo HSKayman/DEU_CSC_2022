@@ -1,4 +1,8 @@
-﻿namespace WindowsFormsApp1
+/*
+ * Auto-generated WinForms designer code for Form1.
+ * Part of Visual programming (WinForms) exercise.
+ */
+namespace WindowsFormsApp1
 {
     partial class Form1
     {

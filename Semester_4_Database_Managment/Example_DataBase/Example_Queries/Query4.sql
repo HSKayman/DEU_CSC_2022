@@ -1,3 +1,5 @@
+-- SQL query script.
+-- Database management exercise (Example Data Base).
 Use ChessTournament
 go 
 /* H ile baslamayan Takimlar Ve Puanlari*/

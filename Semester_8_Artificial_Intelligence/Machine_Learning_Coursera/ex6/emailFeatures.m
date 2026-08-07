@@ -1,3 +1,7 @@
+% Email Features practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Email Features practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function x = emailFeatures(word_indices)
 %EMAILFEATURES takes in a word_indices vector and produces a feature vector
 %from the word indices

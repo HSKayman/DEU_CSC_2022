@@ -1,4 +1,5 @@
-
+; 8086 assembly demo.
+; Computer organization exercise.
 k_shift_statu equ 02h
 bioscagir equ 16h 
 display equ 02h

@@ -1,3 +1,7 @@
+% Project Data practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Project Data practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function Z = projectData(X, U, K)
 %PROJECTDATA Computes the reduced data representation when projecting only 
 %on to the top k eigenvectors

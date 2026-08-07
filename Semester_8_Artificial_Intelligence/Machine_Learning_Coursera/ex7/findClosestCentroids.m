@@ -1,3 +1,7 @@
+% Find Closest Centroids practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Find Closest Centroids practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function idx = findClosestCentroids(X, centroids)
 %FINDCLOSESTCENTROIDS computes the centroid memberships for every example
 %   idx = FINDCLOSESTCENTROIDS (X, centroids) returns the closest centroids

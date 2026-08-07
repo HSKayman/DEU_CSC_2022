@@ -1,3 +1,7 @@
+/*
+ * File Control IV practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	FILE *file1;

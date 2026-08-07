@@ -1,3 +1,7 @@
+/*
+ * Array operations practice.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int q[10],a,f=0,i;

@@ -1,3 +1,5 @@
+# Binary Count Bad Teacher practice program.
+# Computer architecture exercise.
 import itertools
 import pprint
 for digit in [3]:

@@ -1,3 +1,5 @@
+-- SQL query script.
+-- Database management exercise (Example Data Base).
 use ChessTournament 
 /*Hakemlerin is yuku*/
 select Referees.[Name],count(ChessGames.RefereeID) as NumberOfChessGame from ChessGames 

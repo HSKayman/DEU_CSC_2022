@@ -1,3 +1,7 @@
+% Visualize Boundary Linear practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Visualize Boundary Linear practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function visualizeBoundaryLinear(X, y, model)
 %VISUALIZEBOUNDARYLINEAR plots a linear decision boundary learned by the
 %SVM

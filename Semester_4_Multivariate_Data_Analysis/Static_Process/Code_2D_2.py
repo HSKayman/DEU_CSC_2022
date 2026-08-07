@@ -1,3 +1,5 @@
+# Code 2D 2 practice program.
+# Multivariate data analysis exercise (Static Process).
 import numpy as np
 import pandas as pd
 import pprint

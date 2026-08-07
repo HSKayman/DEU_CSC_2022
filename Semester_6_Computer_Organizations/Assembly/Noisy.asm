@@ -1,3 +1,5 @@
+; 8086 assembly demo.
+; Computer organization exercise.
 gurultu segment
 
 ana_program proc far    ;ana program

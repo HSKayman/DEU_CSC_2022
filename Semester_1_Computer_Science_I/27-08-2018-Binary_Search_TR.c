@@ -1,3 +1,7 @@
+/*
+ * Binary Search practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>

@@ -1,3 +1,7 @@
+/*
+ * Sum Without Trace practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 int SumMatrix(int **matrix,int size){

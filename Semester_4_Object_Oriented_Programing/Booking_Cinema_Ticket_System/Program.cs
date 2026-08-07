@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Cinema ticket booking system.
+ * Object-oriented programming exercise (Booking Cinema Ticket System).
+ */
+using System;
 
 namespace OOP_Visa_2017280030
 {

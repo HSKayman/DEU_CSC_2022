@@ -1,3 +1,7 @@
+% Svm Predict practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Svm Predict practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function pred = svmPredict(model, X)
 %SVMPREDICT returns a vector of predictions using a trained SVM model
 %(svmTrain). 

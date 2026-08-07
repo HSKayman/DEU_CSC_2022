@@ -1,3 +1,7 @@
+/*
+ * Two Base Polindrom practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 #include<math.h>
 int main(){

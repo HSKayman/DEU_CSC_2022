@@ -1,3 +1,7 @@
+/*
+ * Tower Of Honai practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 void H(int a,char b,char d,char c);
 int count=1;

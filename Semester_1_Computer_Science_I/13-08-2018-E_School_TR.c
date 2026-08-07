@@ -1,3 +1,7 @@
+/*
+ * School management OOP demo.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int a,i,top=0,e=0,k=100,j,s,s2;

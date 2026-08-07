@@ -1,6 +1,5 @@
-#ComplementGraph
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Complement Graph practice program.
+# Graph theory exercise.
 """
 Created on Mon Jan  6 19:37:15 2020
 

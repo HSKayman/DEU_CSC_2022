@@ -1,3 +1,7 @@
+/*
+ * Final Random practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>

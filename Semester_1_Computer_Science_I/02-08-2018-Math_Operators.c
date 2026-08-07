@@ -1,3 +1,7 @@
+/*
+ * Math Operators practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>

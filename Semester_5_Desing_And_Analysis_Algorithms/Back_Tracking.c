@@ -1,3 +1,7 @@
+/*
+ * Back Tracking practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 #include<stdbool.h>
 #include<stdlib.h>

@@ -1,3 +1,7 @@
+/*
+ * Recursive algorithm practice.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 unsigned long long pow(int x,int y);
 int main(){

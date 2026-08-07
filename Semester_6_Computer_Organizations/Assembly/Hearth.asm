@@ -1,3 +1,5 @@
+; 8086 assembly demo.
+; Computer organization exercise.
 hearth segment
 
 	assume cs:hearth

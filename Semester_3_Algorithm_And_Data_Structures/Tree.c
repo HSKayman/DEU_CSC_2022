@@ -1,3 +1,7 @@
+/*
+ * Tree data structure.
+ * Algorithms and data structures.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

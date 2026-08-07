@@ -1,3 +1,7 @@
+/*
+ * Compute To Extra Pay practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	printf("Lutfen Yaptiginiz Mesai Saatini giriniz:");

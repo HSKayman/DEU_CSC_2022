@@ -1,3 +1,7 @@
+/*
+ * Discrimination practice program.
+ * Linear algebra exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 float equ(float **,int);

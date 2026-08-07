@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Error practice program.
+ * Object-oriented programming exercise (Text Analysys).
+ */
+using System;
 
 namespace _2017280030_OOP_HomeWorkIII
 {

@@ -1,3 +1,7 @@
+/*
+ * Final 6 practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	printf("Lutfen Gireceginiz evin kordinatsal olarak merkezlerini giriniz.\n\n");

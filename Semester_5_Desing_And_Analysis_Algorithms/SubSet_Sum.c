@@ -1,3 +1,7 @@
+/*
+ * Sub Set Sum practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #define max(x,y) (x>y ? x:y)

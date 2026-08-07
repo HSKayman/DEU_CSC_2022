@@ -1,6 +1,5 @@
-#Aciklik&vb
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Aciklik&etc practice program.
+# Graph theory exercise.
 """
 Created on Tue Jan  7 01:00:06 2020
 

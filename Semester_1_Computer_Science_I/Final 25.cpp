@@ -1,3 +1,7 @@
+/*
+ * Final 25 practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int i,a[4][2];

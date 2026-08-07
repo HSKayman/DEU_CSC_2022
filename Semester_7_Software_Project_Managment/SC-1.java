@@ -1,3 +1,7 @@
+/*
+ * Course project code.
+ * Software project / security exercise.
+ */
 import javax.servlet.http.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

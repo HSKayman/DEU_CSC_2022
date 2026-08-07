@@ -1,6 +1,5 @@
-#MeanDegree
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Mean Degree practice program.
+# Graph theory exercise.
 """
 Created on Mon Jan  6 19:47:32 2020
 

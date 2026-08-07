@@ -1,3 +1,7 @@
+/*
+ * Prime-number related routine.
+ * CSC I intro programming exercise.
+ */
 int main(){
 	int a,at=0,i;
 	printf("lutfen bir sayi giriniz"); scanf("%d",&a);

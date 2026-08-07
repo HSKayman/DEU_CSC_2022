@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Mini Text Operations support code.
+ * Object-oriented programming exercise.
+ */
+using System;
 
 namespace _2017280030_OOP_HomeworkII
 {

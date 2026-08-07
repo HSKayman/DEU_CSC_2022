@@ -1,3 +1,5 @@
+# Matrix operations practice.
+# Text and web mining exercise (Paralel Coordinate Matrix).
 import itertools
 import pandas as pd
 import matplotlib.pyplot as plt

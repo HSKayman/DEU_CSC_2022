@@ -1,3 +1,7 @@
+% Compute Cost Multi practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Compute Cost Multi practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function J = computeCostMulti(X, y, theta)
 %COMPUTECOSTMULTI Compute cost for linear regression with multiple variables
 %   J = COMPUTECOSTMULTI(X, y, theta) computes the cost of using theta as the

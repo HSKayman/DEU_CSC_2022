@@ -1,3 +1,7 @@
+/*
+ * Que practice program.
+ * Algorithms and data structures (Data Structures).
+ */
 #include<stdio.h>
 #include<stdlib.h>
 //Level 5 size a uyumlu normal que

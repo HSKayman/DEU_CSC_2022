@@ -1,3 +1,5 @@
+# K-means clustering.
+# Data mining / analysis exercise (Kmeans&Clustering).
 import pandas as pd
 from sklearn.cluster import KMeans as km
 import numpy as np

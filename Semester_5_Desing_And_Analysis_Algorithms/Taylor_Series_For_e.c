@@ -1,3 +1,7 @@
+/*
+ * Taylor Series For e practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 double Series(unsigned long long x,unsigned long long n){
     unsigned long long multiply=1,fac=1,i,iterate_x=x;

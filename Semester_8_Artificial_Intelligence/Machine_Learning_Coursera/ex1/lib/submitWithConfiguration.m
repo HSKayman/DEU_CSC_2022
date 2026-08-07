@@ -1,3 +1,7 @@
+% Submit With Configuration practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Submit With Configuration practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function submitWithConfiguration(conf)
   addpath('./lib/jsonlab');
 

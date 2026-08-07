@@ -1,3 +1,7 @@
+/*
+ * Compute practice program.
+ * CSC II programming exercise.
+ */
 #include<stdlib.h>
 #include<time.h>
 int fac(int x){

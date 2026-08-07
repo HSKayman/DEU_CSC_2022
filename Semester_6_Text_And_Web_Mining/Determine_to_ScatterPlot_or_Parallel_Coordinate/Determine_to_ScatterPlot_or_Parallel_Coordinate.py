@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Determine to Scatter Plot or Parallel Coordinate practice program.
+# Text and web mining exercise.
 """
 Created on Fri Jan 24 12:59:47 2020
 

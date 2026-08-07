@@ -1,3 +1,7 @@
+% Compute Cost practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Compute Cost practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function J = computeCost(X, y, theta)
 %COMPUTECOST Compute cost for linear regression
 %   J = COMPUTECOST(X, y, theta) computes the cost of using theta as the

@@ -1,3 +1,7 @@
+/*
+ * Multiply Table practice program.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	int i,j,a;

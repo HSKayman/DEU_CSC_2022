@@ -1,3 +1,7 @@
+/*
+ * Typedef practice program.
+ * CSC II programming exercise.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>

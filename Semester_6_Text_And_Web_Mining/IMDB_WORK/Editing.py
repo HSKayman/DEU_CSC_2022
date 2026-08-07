@@ -1,3 +1,5 @@
+# Editing practice program.
+# Text and web mining exercise (IMDB WORK).
 import pandas as pd
 import numpy as np
 from nltk.tokenize import RegexpTokenizer

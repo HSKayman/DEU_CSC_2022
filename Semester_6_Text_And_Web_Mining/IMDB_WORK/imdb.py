@@ -1,3 +1,5 @@
+# Imdb practice program.
+# Text and web mining exercise (IMDB WORK).
 from bs4 import BeautifulSoup
 from requests import get
 import pandas as pd

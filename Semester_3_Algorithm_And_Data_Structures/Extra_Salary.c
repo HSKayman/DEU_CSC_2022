@@ -1,3 +1,7 @@
+/*
+ * Extra Salary practice program.
+ * Algorithms and data structures.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 int main(){

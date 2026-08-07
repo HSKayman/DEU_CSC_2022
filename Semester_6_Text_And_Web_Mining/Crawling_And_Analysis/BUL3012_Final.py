@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Web crawling and text analysis.
+# Text and web mining exercise (Crawling And Analysis).
 """
 Created on Tue Jun 22 21:54:09 2021
 

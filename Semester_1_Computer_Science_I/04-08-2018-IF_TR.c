@@ -1,3 +1,7 @@
+/*
+ * IF practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	printf("Lutfen Ekrana farkli 3 sayi giriniz:");

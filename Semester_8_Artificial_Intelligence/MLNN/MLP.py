@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[1]:
-
+# Multilayer perceptron.
+# Artificial intelligence exercise (MLNN).
 # =============================================================================
 # Importing Requirment Library
 # =============================================================================

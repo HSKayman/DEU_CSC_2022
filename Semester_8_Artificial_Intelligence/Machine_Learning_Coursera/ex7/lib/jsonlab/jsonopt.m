@@ -1,3 +1,7 @@
+% Jsonopt practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Jsonopt practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function val=jsonopt(key,default,varargin)
 %
 % val=jsonopt(key,default,optstruct)

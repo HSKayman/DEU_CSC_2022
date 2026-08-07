@@ -1,3 +1,7 @@
+% Read File practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Read File practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function file_contents = readFile(filename)
 %READFILE reads a file and returns its entire contents 
 %   file_contents = READFILE(filename) reads a file and returns its entire

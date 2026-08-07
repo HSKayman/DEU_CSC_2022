@@ -1,3 +1,7 @@
+/*
+ * Pascal triangle generator.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 
 int cnr(int n,int r){

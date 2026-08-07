@@ -1,6 +1,5 @@
-#BipartiteGraph
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Bipartite Graph practice program.
+# Graph theory exercise.
 """
 Created on Wed Jan  8 00:26:53 2020
 

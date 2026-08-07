@@ -1,4 +1,5 @@
-
+# Buggy HTML practice program.
+# Software debugging exercise.
 def remove_html_markup(s):
     tag = False
     quote = False

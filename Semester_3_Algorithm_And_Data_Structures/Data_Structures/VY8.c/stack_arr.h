@@ -1,3 +1,7 @@
+/*
+ * Stack data structure.
+ * Algorithms and data structures (Data Structures).
+ */
 #ifndef stack_arr
 #define stack_arr
 struct s{

@@ -1,3 +1,7 @@
+/*
+ * Computes Fibonacci numbers.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 #include<math.h>
 #include <time.h>

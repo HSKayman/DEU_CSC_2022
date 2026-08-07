@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * WinForms GUI form.
+ * Object-oriented programming exercise (Banking EFT System).
+ */
+using System;
 using System.Windows.Forms;
 
 namespace _2017280030_OOP_Final

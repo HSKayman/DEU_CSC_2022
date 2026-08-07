@@ -1,5 +1,5 @@
-#https://nerdland.net/the-lottery-problem/
-#https://yalansavar.org/2016/03/31/bu-tesaduf-olamaz/
+# Loto Brute Force practice program.
+# Visual programming (WinForms) exercise.
 '''
 hitmn=6 # bir kolonda kac sayi olmasi gerektigi
 to=1   # lotonun alt siniri

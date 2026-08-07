@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * School management OOP demo.
+ * Object-oriented programming exercise (School System).
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

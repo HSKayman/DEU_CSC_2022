@@ -1,3 +1,7 @@
+% Linear Kernel practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Linear Kernel practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function sim = linearKernel(x1, x2)
 %LINEARKERNEL returns a linear kernel between x1 and x2
 %   sim = linearKernel(x1, x2) returns a linear kernel between x1 and x2

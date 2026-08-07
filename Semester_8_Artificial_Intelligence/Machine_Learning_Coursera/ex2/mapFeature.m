@@ -1,3 +1,7 @@
+% Map Feature practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Map Feature practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function out = mapFeature(X1, X2)
 % MAPFEATURE Feature mapping function to polynomial features
 %

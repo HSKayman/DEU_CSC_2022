@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# # Import Library
-
+# Convolutional neural network.
+# Artificial intelligence exercise (Home Work CNN).
 # In[28]:
 
 

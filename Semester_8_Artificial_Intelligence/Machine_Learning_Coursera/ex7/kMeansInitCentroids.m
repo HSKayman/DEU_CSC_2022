@@ -1,3 +1,7 @@
+% K Means Init Centroids practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% K Means Init Centroids practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function centroids = kMeansInitCentroids(X, K)
 %KMEANSINITCENTROIDS This function initializes K centroids that are to be 
 %used in K-Means on the dataset X

@@ -1,3 +1,7 @@
+/*
+ * Queue data structure.
+ * Algorithms and data structures.
+ */
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct n{

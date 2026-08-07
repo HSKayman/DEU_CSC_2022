@@ -1,4 +1,8 @@
-﻿namespace HomeWorkIII
+/*
+ * Auto-generated WinForms designer code for Form1.
+ * Part of Visual programming (WinForms) exercise.
+ */
+namespace HomeWorkIII
 {
     partial class Form1
     {

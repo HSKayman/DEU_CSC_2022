@@ -1,3 +1,7 @@
+% Lr Cost Function practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Lr Cost Function practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function [J, grad] = lrCostFunction(theta, X, y, lambda)
 %LRCOSTFUNCTION Compute cost and gradient for logistic regression with 
 %regularization

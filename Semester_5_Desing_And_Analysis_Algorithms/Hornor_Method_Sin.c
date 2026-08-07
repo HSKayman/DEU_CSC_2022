@@ -1,3 +1,7 @@
+/*
+ * Hornor Method Sin practice program.
+ * Design and analysis of algorithms.
+ */
 #include<stdio.h>
 long long unsigned Fac(int n){
     if(n==1)

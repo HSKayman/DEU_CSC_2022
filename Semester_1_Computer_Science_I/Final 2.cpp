@@ -1,3 +1,7 @@
+/*
+ * Final 2 practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int power(int x,int y);
 

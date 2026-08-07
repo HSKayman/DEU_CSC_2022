@@ -1,3 +1,7 @@
+/*
+ * Counting In Range II practice program.
+ * Discrete mathematics exercise.
+ */
 #include<stdio.h>
 #define F 7
 int main(){int n=0;

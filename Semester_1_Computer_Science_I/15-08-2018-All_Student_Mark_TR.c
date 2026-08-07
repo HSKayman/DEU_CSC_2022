@@ -1,3 +1,7 @@
+/*
+ * All Student Mark practice program.
+ * CSC I intro programming exercise.
+ */
 #include<stdio.h>
 int main(){
 	printf("\nSinif Sayisi :"); int s,v,f; scanf("%d",&s);

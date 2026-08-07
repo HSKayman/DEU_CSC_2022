@@ -1,3 +1,7 @@
+/*
+ * All Iteariton practice program.
+ * Numerical analysis exercise.
+ */
 #include<stdio.h>
 #include<math.h>
 /*

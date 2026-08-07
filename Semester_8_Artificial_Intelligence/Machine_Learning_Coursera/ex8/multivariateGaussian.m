@@ -1,3 +1,7 @@
+% Multivariate Gaussian practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
+% Multivariate Gaussian practice program.
+% Coursera ML/DL assignment code (Machine Learning Coursera).
 function p = multivariateGaussian(X, mu, Sigma2)
 %MULTIVARIATEGAUSSIAN Computes the probability density function of the
 %multivariate gaussian distribution.
